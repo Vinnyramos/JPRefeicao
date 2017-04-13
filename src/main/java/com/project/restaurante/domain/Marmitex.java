@@ -14,12 +14,9 @@ public class Marmitex implements Serializable{
 		this.id = id;
 		this.sabor = sabor;
 		this.tamanho = tamanho;
-		this.preco = preco;
-		
+		this.preco = preco;		
 	}
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = 1L;
 	
 	@Id 
