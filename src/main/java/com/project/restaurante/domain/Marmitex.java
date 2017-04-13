@@ -15,6 +15,7 @@ public class Marmitex implements Serializable{
 		this.sabor = sabor;
 		this.tamanho = tamanho;
 		this.preco = preco;
+		
 	}
 	/**
 	 * 
